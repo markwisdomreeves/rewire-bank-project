@@ -1,0 +1,139 @@
+
+/* Global auth user forms styles */
+
+/* Hide and Show password style */
+.show-password-container {
+  position: relative;
+  margin-bottom: 14px;
+}
+.show-password-container small {
+  position: absolute;
+  top: 55%;
+  right: 10%;
+  cursor: pointer;
+  color: #800000;
+  font-size: 1rem;
+}
+
+.global-user-form-screen-container {
+  width: 100%;
+  margin-top: 1rem;
+}
+.custom-register-input-style {
+  margin-top: 10px;
+}
+.custom-register-input-style form input {
+  margin-bottom: 10px;
+}
+#main-custom-form-container {
+  padding: 1rem;
+}
+.global-img-content {
+  padding: 1rem;
+}
+.global-img-content img {
+  width: 100%;
+  min-height: 50vh;
+}
+.main-form-container {
+  padding: 5px;
+  margin-top: 10px;
+}
+.main-form-container label {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.main-form-container input {
+  width: 100%;
+  margin-bottom: 8px;
+  padding: 0.5rem;
+  height: auto;
+}
+.forgot-password-box {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 5px;
+  margin-bottom: 1.7rem;
+}
+.forgot-password-box a {
+  text-decoration: none !important;
+  color: #800000 !important;
+}
+.btn-style-container {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: #800000;
+  color: white;
+  font-weight: 700;
+  transition: all 0.5s;
+}
+.btn-style-container:hover {
+  background-color: gray;
+  color: black;
+}
+#custom-form-group-box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+}
+.hr-line {
+  margin-bottom: 10px;
+  font-size: 1rem;
+}
+.social-login-box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.social-login-box button {
+  width: 100%;
+  margin-bottom: 5px;
+  padding: 12px;
+  border: none;
+  color: black;
+  font-weight: 700;
+}
+.login-route-msg {
+  padding: 10px;
+}
+.login-route-msg h5 {
+  font-size: 1rem;
+  display: flex;
+  justify-content: flex-start;
+}
+.login-route-msg h5 a {
+  padding-left: 5px;
+  color: #800000 !important;
+  text-decoration: none;
+}
+.main-demo-account-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.main-demo-account-box h3 {
+  margin-top: 5px;
+  font-size: 1.4rem;
+}
+.main-demo-account-box span {
+  font-size: 15px;
+}
+.main-demo-account-box .admin {
+  color: #13a2b7;
+}
+.main-demo-account-box .user {
+  color: brown;
+}
+@media screen and (max-width: 767px) {
+  .display-none-small-screen {
+    background-color: black;
+    display: none;
+  }
+}
