@@ -2,7 +2,7 @@
 
 #### This is a Full Stack Bank website project that provides a faster and easier ways to send and receive money to friends and families.
 
-#### PLEASE CLICK THIS LINK TO VIEW THE LIVE PROJECT: https://bank-c.netlify.app/
+#### PLEASE CLICK THIS LINK TO VIEW THE LIVE PROJECT: https://rewire-bank.netlify.app/
 
 ### Frontend Technologies used in this project are:
 
