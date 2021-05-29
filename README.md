@@ -1,6 +1,6 @@
 ## Rewire Bank Website Project
 
-#### This is a Full Stack Bank website project that provides a fastest and easiest ways to send and receive money to friends and families.
+#### This is a Full Stack Bank website project that provides a faster and easier ways to send and receive money to friends and families.
 
 #### PLEASE CLICK THIS LINK TO VIEW THE LIVE PROJECT: https://bank-c.netlify.app/
 
